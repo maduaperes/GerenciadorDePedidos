@@ -105,13 +105,13 @@ O sistema utiliza **SQLite**, com criação automática do banco `pedidos.db` na
 
 1. Clone o repositório:
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/maduaperes/GerenciadorDePedidos.git
 ````
 
 2. Acesse o projeto:
 
 ```bash
-cd sistema-gerenciamento-pedidos
+cd GerenciadorDePedidos
 ```
 
 3. Restaure dependências:
